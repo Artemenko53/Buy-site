@@ -1,0 +1,80 @@
+body {
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1,
+p,
+h2,
+h3 {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+}
+
+.one {
+  background-image: linear-gradient(
+      to right,
+      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/4.png);
+  width: 250px;
+  margin-left: 460px;
+  border-radius: 8px;
+}
+
+.two {
+  background-image: linear-gradient(
+      to right,
+      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/5.png);
+  width: 250px;
+  margin-left: 460px;
+  border-radius: 8px;
+}
+
+.three {
+  background-image: linear-gradient(
+      to right,
+      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/6.png);
+  width: 250px;
+  margin-left: 460px;
+  border-radius: 8px;
+}
+
+.mail {
+  margin-left: 60px;
+}
+
+.telegram {
+  margin-left: 475px;
+}
+
+.sitebuy {
+  background-image: linear-gradient(
+      to right,
+      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/7.png);
+  border-radius: 8px;
+}
