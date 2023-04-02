@@ -20,6 +20,13 @@ a {
   padding-bottom: 100px;
   border-radius: 15px;
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+h4 {
+  display: inline;
 }
 
 ul {
@@ -56,7 +63,6 @@ ul {
 
 .button {
   width: 270px;
-  margin-left: 465px;
   padding-left: 20px;
   background-color: black;
   border-radius: 8px;

@@ -92,3 +92,17 @@ a {
   display: flex;
   justify-content: space-around;
 }
+
+.app {
+  background-image: linear-gradient(
+      to right,
+      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/8.png);
+  border-radius: 8px;
+}
+
+h4 {
+  display: inline;
+}
