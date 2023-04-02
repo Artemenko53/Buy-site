@@ -25,6 +25,13 @@ a {
   font-size: 30px;
 }
 
+.buylist {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .one {
   background-image: linear-gradient(
       to right,
@@ -33,7 +40,7 @@ a {
     ),
     url(../images/4.png);
   width: 250px;
-  margin-left: 460px;
+
   border-radius: 8px;
 }
 
@@ -45,7 +52,7 @@ a {
     ),
     url(../images/5.png);
   width: 250px;
-  margin-left: 460px;
+
   border-radius: 8px;
 }
 
@@ -57,16 +64,8 @@ a {
     ),
     url(../images/6.png);
   width: 250px;
-  margin-left: 460px;
+
   border-radius: 8px;
-}
-
-.mail {
-  margin-left: 60px;
-}
-
-.telegram {
-  margin-left: 475px;
 }
 
 .sitebuy {
@@ -87,4 +86,9 @@ a {
     ),
     url(../images/5.png);
   border-radius: 8px;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-around;
 }
