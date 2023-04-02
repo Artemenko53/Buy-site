@@ -78,3 +78,13 @@ a {
     url(../images/7.png);
   border-radius: 8px;
 }
+
+.roblox {
+  background-image: linear-gradient(
+      to right,
+      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/5.png);
+  border-radius: 8px;
+}
