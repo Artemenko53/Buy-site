@@ -66,6 +66,7 @@ ul {
   padding-left: 20px;
   background-color: black;
   border-radius: 8px;
+  transition: all ;
 }
 
 .listadv {

@@ -12,6 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Raleway&display=swap"
       rel="stylesheet"
     />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
   </head>
   <body>
     <header>
@@ -36,11 +37,11 @@
           <h1>Advantages</h1>
           <div class="blockone"></div>
           <ul class="listadv">
-            <li>
+            <li data-aos="fade-right">
               <h3>Easy build</h3>
               <p>Only write for us, and we will do it for you</p>
             </li>
-            <li>
+            <li data-aos="fade-left">
               <h3>Free</h3>
               <p>First order is free, any else only 10grn</p>
             </li>
@@ -49,5 +50,9 @@
         </section>
       </div>
     </main>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
   </body>
 </html>
