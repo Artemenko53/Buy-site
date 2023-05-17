@@ -71,7 +71,7 @@ a {
 .sitebuy {
   background-image: linear-gradient(
       to right,
-      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.5),
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/7.png);
@@ -81,7 +81,7 @@ a {
 .roblox {
   background-image: linear-gradient(
       to right,
-      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.5),
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/5.png);
@@ -96,7 +96,7 @@ a {
 .app {
   background-image: linear-gradient(
       to right,
-      rgba(46, 47, 66, 0.3),
+      rgba(46, 47, 66, 0.5),
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/8.png);

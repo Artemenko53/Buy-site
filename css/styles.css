@@ -62,10 +62,18 @@ ul {
 }
 
 .button {
-  width: 270px;
+  width: 170px;
   padding-left: 20px;
   background-color: black;
   border-radius: 8px;
+}
+
+.button:hover {
+  background-color: rgb(58, 58, 58);
+}
+
+.button:active {
+  background-color: rgb(92, 92, 92);
 }
 
 .listadv {
